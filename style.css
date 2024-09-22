@@ -31,8 +31,23 @@ body{
 main{
     margin-top:5%;
 }
-main p{
-    margin-left:3%;
+
+.title-header{
+    font-size: 32px;
+    text-align: center;
+}
+.title-text{
+    font-size: 20px;
+    text-align: center;
+}
+.block{
+    margin-bottom: 5%;
+    justify-content: center;
+}
+.block img{
+    height: 50px;
+    width: 50px;
+    margin-right: 5%;
 }
 @keyframes onHover{
     0%{
